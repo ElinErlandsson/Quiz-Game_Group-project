@@ -4,6 +4,4 @@ A group project where we created a quiz game. We fetched questions and answers f
 * Click the link below to try it out!
 * [DEMO](https://quiz-gamejs.netlify.app/)
 
-## Home page:
-![]()
 
